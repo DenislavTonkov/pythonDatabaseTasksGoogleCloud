@@ -1,2 +1,2 @@
 # pythonDatabaseTasksGoogleCloud
-Python FastAPI DB tasks for data engineering
+Python FastAPI DB tasks for a data engineering task
